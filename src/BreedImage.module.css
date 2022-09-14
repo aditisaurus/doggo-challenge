@@ -1,0 +1,12 @@
+.image{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+}
+
+.image > Card{
+    margin-right: 5rem;
+    margin-top: 5rem;
+}
